@@ -1,0 +1,1 @@
+/home/andy/Documents/rust_programming_specialization_duke_university/src/rust_fundamentals/week2/create_a_new_project/target/debug/create_a_new_project: /home/andy/Documents/rust_programming_specialization_duke_university/src/rust_fundamentals/week2/create_a_new_project/src/main.rs
