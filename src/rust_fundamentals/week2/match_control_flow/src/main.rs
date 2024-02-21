@@ -5,9 +5,9 @@ fn main() {
     let mut greet = String::new();
     io::stdin().read_line(&mut greet).expect("Failed to read input");
 
-    match greet.trim() {
-        "Good Bye" => println!("Sorry to see you go."),
-        "Hello" => println!("Hi, nice to meet you!"),
+    match greet.to_lowercase().trim() {
+        "good bye" => println!("Sorry to see you go."),
+        "hello" => println!("Hi, nice to meet you!"),
         _ => println!("I can't find a greeting, good bye."),
     }
 }
