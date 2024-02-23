@@ -1,0 +1,1 @@
+/home/andy/Documents/rust_programming_specialization_duke_university/src/rust_fundamentals/week2/simple_unit_functions/target/debug/simple_unit_functions: /home/andy/Documents/rust_programming_specialization_duke_university/src/rust_fundamentals/week2/simple_unit_functions/src/main.rs
