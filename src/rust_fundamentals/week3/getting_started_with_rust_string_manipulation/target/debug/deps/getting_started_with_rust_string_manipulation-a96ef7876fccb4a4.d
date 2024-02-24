@@ -1,5 +1,0 @@
-/home/andy/Documents/rust_programming_specialization_duke_university/src/rust_fundamentals/week3/getting_started_with_rust_string_manipulation/target/debug/deps/getting_started_with_rust_string_manipulation-a96ef7876fccb4a4: src/main.rs
-
-/home/andy/Documents/rust_programming_specialization_duke_university/src/rust_fundamentals/week3/getting_started_with_rust_string_manipulation/target/debug/deps/getting_started_with_rust_string_manipulation-a96ef7876fccb4a4.d: src/main.rs
-
-src/main.rs:
