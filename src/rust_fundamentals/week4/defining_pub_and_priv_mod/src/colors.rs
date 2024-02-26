@@ -1,0 +1,3 @@
+fn writing() {
+    println!("Writing");
+}
