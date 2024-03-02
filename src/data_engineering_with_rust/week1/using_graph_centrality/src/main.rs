@@ -1,5 +1,4 @@
-use petgraph::graph::{self, Node, NodeIndex, UnGraph};
-use petgraph::visit::IntoEdges;
+use petgraph::graph::{NodeIndex, UnGraph};
 use petgraph::Direction;
 use std::fmt;
 
